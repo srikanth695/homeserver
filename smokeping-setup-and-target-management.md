@@ -1,5 +1,7 @@
 # SmokePing Setup and Target Management
 
+SmokePing is a deluxe latency measurement tool. It can measure, store and display latency, latency distribution and packet loss. SmokePing uses RRDtool to maintain a longterm data-store and to draw pretty graphs, giving up to the minute information on the state of each network connection.
+
 ## 1. Environment
 
   Component                Configuration
